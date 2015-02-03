@@ -1,2 +1,2 @@
 # BistroApp
-android application
+test android application
